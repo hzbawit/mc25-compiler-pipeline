@@ -1,4 +1,4 @@
-# mc25_compiler## MC-25 Compiler Optimization & CI/CD Pipeline
+
 ### **Team Project 2 — Team Alpha**
 
 **Contributors:** Hzbawit (Infrastructure & DevOps) & Haftamu Mekonen (Optimization Logic & Benchmarking)  
@@ -122,4 +122,4 @@ sw   \$t0, x
 lw   t0, 4(sp)
 sw   \$t0, x            # Pruned 2 execution cycles from simulator
 ```
- mc25_compiler
+
